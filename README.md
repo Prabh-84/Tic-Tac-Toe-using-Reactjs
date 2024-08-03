@@ -1,1 +1,1 @@
-# Tic-Tac-Tor-using-Reactjs
+# Tic-Tac-Toe-using-Reactjs
